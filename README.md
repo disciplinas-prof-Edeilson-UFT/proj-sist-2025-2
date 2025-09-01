@@ -6,7 +6,7 @@
 # Grupos
 
 ### Grupo 1:
-![logo](https://github.com/user-attachments/assets/aa821961-ccce-4342-9e1c-90214282286e)
+![logo](https://github.com/user-attachments/assets/043b5e6c-d9f6-410f-be7f-853a23c47013)
 
 #### Descrição do produto:
 O projeto propõe o desenvolvimento de um sistema integrado de gestão empresarial, acessível por web e aplicativo móvel, voltado a micro, pequenas e médias empresas. A solução reúne em uma única plataforma recursos essenciais para o gerenciamento de vendas, controle de estoque automatizado, emissão de notas fiscais eletrônicas, acompanhamento financeiro e relatórios de desempenho. Com interface simples e intuitiva, busca reduzir a complexidade da gestão diária, otimizar processos e fornecer informações estratégicas em tempo real. O objetivo é ampliar a eficiência operacional, diminuir falhas comuns de controle e contribuir para a sustentabilidade e crescimento dos empreendimentos.
