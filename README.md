@@ -25,3 +25,23 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 [Link do repositório](https://github.com/RuamMarcos/ezgestor)
 [Link do Vídeo Pitch - Liga Jovem](https://youtu.be/adU8YGYWLSs)
 
+### Grupo 2: MedLink
+
+#### Descrição do produto:
+O projeto **MedLink** tem como objetivo o desenvolvimento de um sistema de agendamento de consultas voltado para clínicas conjuntas de médicos em início de carreira. A solução busca aumentar a produtividade e a eficiência das clínicas, oferecendo uma agenda digital simples e acessível. Entre as funcionalidades, estão o cadastro de pacientes, o gerenciamento da agenda diária e semanal de médicos, notificações de confirmação de consultas e relatórios básicos de ocupação. Com foco em acessibilidade e usabilidade, o MedLink pretende reduzir faltas, melhorar a organização da clínica e permitir que médicos se concentrem no que realmente importa: o atendimento aos pacientes.
+</br>
+
+</br>
+
+|Nome|Github|
+|---|---|
+|Maurício Monteiro|[MontDeP](https://github.com/MontDeP)|
+|Wanderson Mello|[WandersonAMello](https://github.com/WandersonAMello)|
+|José Borges|[SidyDev-AI](https://github.com/SidyDev-AI)|
+|Letícia Gomes|[LeticiaGLopes-151](https://github.com/LeticiaGLopes-151)|
+|Gabryel Marques|[GabryelMarques](https://github.com/GabryelMarques)|
+|[Link do repositório](https://github.com/MauricioMonteiro/MedLink)|
+|[Link do Vídeo Pitch - Liga Jovem](https://youtu.be/JMGeQtd__As)|
+
+
+
