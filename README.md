@@ -69,3 +69,33 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 |Repositório | [Github](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel) |
 |Vídeo Pitch – Liga Jovem | [Youtube](https://youtu.be/f4Rg3GxqCx0) |
 
+---
+
+### Grupo 4
+
+![Image](https://github.com/user-attachments/assets/739486cf-d8fe-419c-ac82-649c32ffb525)
+
+#### Descrição do produto:
+O projeto consiste no desenvolvimento de um **aplicativo para restaurantes** que funciona como um **cardápio digital interativo**, permitindo que os clientes:  
+
+- Consultem o menu de forma prática e intuitiva.  
+- Realizem pedidos diretamente pelo aplicativo.  
+- Acompanhem em tempo real o status do pedido.  
+- Efetuem o pagamento pelo próprio app.  
+
+Além disso, o sistema busca **reduzir falhas no atendimento**, **agilizar processos internos** e **otimizar a experiência do cliente**, tornando o serviço mais rápido e eficiente tanto para consumidores quanto para restaurantes.
+
+| Nome | GitHub |
+|-|-|
+|João Pedro Oliveira Barbosa | [Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
+| Marcus Vinicius Guimarães Balbino | [Galessss](https://github.com/Galessss) | 
+| Heitor Fernandes Carrijo | [HeitorFernandes04](https://github.com/HeitorFernandes04)|
+| Lucas José de Sousa Gomes | [yamatosz](https://github.com/yamatosz) |
+| Jonata Rubens Silva Araújo | [JonataRubens](https://github.com/JonataRubens) |
+
+| Nome | Link |
+|-|-|
+| Repositório | [projeto_de_sistemas-2025.2](https://github.com/Iohanan-Cephas/projeto_de_sistemas-2025.2) |
+| Vídeo pitch | [YouTube](https://youtu.be/sRg19N6LITk) |
+
+---
