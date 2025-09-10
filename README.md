@@ -25,6 +25,8 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 [Link do repositório](https://github.com/RuamMarcos/ezgestor)
 [Link do Vídeo Pitch - Liga Jovem](https://youtu.be/adU8YGYWLSs)
 
+---
+
 ### Grupo 2: MedLink
 
 #### Descrição do produto:
@@ -43,5 +45,29 @@ O projeto **MedLink** tem como objetivo o desenvolvimento de um sistema de agend
 |[Link do repositório](https://github.com/MauricioMonteiro/MedLink)|
 |[Link do Vídeo Pitch - Liga Jovem](https://youtu.be/JMGeQtd__As)|
 
+---
+
+### Grupo 3: Amigo Fiel
+
+![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
+
+#### Descrição do produto:
+Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores independentes e adotantes em um único espaço. Seu objetivo é facilitar adoções responsáveis, promover doações seguras e dar mais visibilidade a animais resgatados que precisam de um lar. Além disso, a plataforma conta com um marketplace integrado, que aproxima tutores ao mercado pet, oferecendo produtos, serviços e profissionais especializados, tornando a experiência de adoção e cuidado com os animais ainda mais completa e acessível.
 
 
+| Nome | GitHub |
+|------|--------|   
+| Edeilson Milhomem (Orientador) | [Edmilhomem](https://github.com/edmilhomem) |
+| Eduardo Henrique Coelho Ramos | [HelloKiw1](https://github.com/HelloKiw1) |
+| Eduardo Lopes de Oliveira Torres | [EduLps1](https://github.com/EduLps1) |
+| Guilherme da Silva Carvalho | [Guilherme1737](https://github.com/Guilherme1737) |
+| Henrique Wendler | [Henrique-wendler](https://github.com/Henrique-wendler) |
+| Mateus Sulino | — |
+
+| Nome | Link |
+|------|--------|  
+|Repositório | [Github](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel) |
+|Vídeo Pitch – Liga Jovem | [Youtube](https://youtu.be/f4Rg3GxqCx0) |
+
+**Link do Repositório:** https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel  
+**Link do Vídeo Pitch – Liga Jovem:** https://youtu.be/f4Rg3GxqCx0
