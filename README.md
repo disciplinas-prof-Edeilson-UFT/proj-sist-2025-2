@@ -121,3 +121,27 @@ O PetCare é um projeto que visa conectar tutores e o mercado pet, promovendo a 
 [Link do Vídeo Pitch - Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
 
 ---
+
+### Grupo 6
+
+<img width="540" height="308" alt="image" src="https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e" />
+
+# Descrição do produto
+
+O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados na cidade e que procuram um lugar para morar, a outros estudantes que buscam um colega de quarto. Usando filtros customizáveis e eliminando intermediários, a iniciativa procura facilitar o processo de encontrar um novo lar numa cidade nova, garantindo segurança e praticidade, para que os estudantes possam focar no que realmente interessa: sua vida acadêmica e novas experiências.
+
+# Equipe
+
+|Nome|GitHub|
+|---|---|
+|Hátilan Caio Alves Fontes |[@Hatilancaio](https://github.com/Hatilancaio)
+|João Victor Melo do Nascimento |[@joaovictormelor](https://github.com/joaovictormelor)
+|Laura Barbosa Henrique |[@tinywin](https://github.com/tinywin)
+|Sophia Ribeiro Prado|[@sophiaprado1](https://github.com/sophiaprado1)
+|Vinícius Wanderley Arruda|[@ViiniDev](https://github.com/ViiniDev)
+
+[Link do repositório](https://github.com/sophiaprado1/Quartinho-PS)
+
+[Link do vídeo pitch para o Desafio Liga Jovem](https://youtu.be/oRFkZjGtHVI?si=QO7GZrxkkUTTM4z9)
+
+[Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
