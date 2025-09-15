@@ -145,3 +145,29 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 [Link do vídeo pitch para o Desafio Liga Jovem](https://youtu.be/oRFkZjGtHVI?si=QO7GZrxkkUTTM4z9)
 
 [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+
+---
+
+### Grupo 7
+
+![logo](https://raw.githubusercontent.com/maraemanuella/backstage/refs/heads/main/midia/Logo%20-%20Fundo%20Preto.png)
+
+# Descrição do produto
+
+Backstage é uma plataforma digital inovadora desenvolvida para mitigar o problema de altas taxas de ausência em eventos gratuitos. Combinando tecnologia, gamificação e responsabilidade social, a solução visa criar um ecossistema sustentável de eventos com comparecimento garantido, beneficiando organizadores, participantes e instituições.
+
+# Equipe
+
+|Nome|GitHub|
+|---|---|
+|Luís Gustavo Alves Bezerra|[@lu1pinho](https://www.github.com/lu1pinho)
+|Mara Emanuella Carvalho Martins|[@maraemanuella](https://www.github.com/maraemanuella)
+|José Lucas Carvalho Silva|[@lalisalix](https://www.github.com/lalisalix)
+|João Sestari Galvão|[@joaosgalvao](https://www.github.com/joaosgalvao)
+|João Vitor Braz Lopes Hott|[@HottBraz](https://www.github.com/HottBraz)
+|Thiago Galvão Amorim|[@DevThiagoGalvao](https://www.github.com/DevThiagoGalvao)
+
+[Link do repositório](https://github.com/maraemanuella/backstage)
+
+[Link do vídeo](https://www.youtube.com/watch?v=QUlsN26qc5k)
+
