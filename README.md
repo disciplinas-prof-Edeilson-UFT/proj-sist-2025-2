@@ -98,3 +98,26 @@ Além disso, o sistema busca **reduzir falhas no atendimento**, **agilizar proce
 | Repositório | [projeto_de_sistemas-2025.2](https://github.com/Iohanan-Cephas/projeto_de_sistemas-2025.2) |
 
 ---
+
+
+### Grupo 5:
+![logo]()
+
+#### Descrição do produto:
+O PetCare é um projeto que visa conectar tutores e o mercado pet, promovendo a acessibilidade à saúde do seu animal. Nesse aplicativo você encontra petshops e veterinários perto de você, com detalhes de fácil acesso, além de informações sobre campanhas de vacinação e tudo de relevante para a saúde do seu pet.
+</br>
+
+</br>
+
+
+|Nome|Github|
+|---|---|
+|Isabela Barros de Oliveira|[isabelabarros-o](https://github.com/isabelabarros-o)|
+|Ranor Victor Araújo|[ranorvictor](https://github.com/ranorvictor)|
+|Luiz Fernando Carvalho|[lfocarvalho](https://github.com/lfocarvalho)|
+|Mateus Leopoldo Santiago|[@MateusLeopoldo](https://github.com/MateusLeopoldo)|
+|Natália Morais Nerys|[@natalia-nerys](https://github.com/natalia-nerys)|
+[Link do repositório](https://github.com/lfocarvalho/projeto-de-sistemas)
+[Link do Vídeo Pitch - Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
+
+---
