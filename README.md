@@ -96,6 +96,5 @@ Além disso, o sistema busca **reduzir falhas no atendimento**, **agilizar proce
 | Nome | Link |
 |-|-|
 | Repositório | [projeto_de_sistemas-2025.2](https://github.com/Iohanan-Cephas/projeto_de_sistemas-2025.2) |
-| Vídeo pitch | [YouTube](https://youtu.be/sRg19N6LITk) |
 
 ---
