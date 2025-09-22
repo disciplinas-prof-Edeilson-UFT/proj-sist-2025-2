@@ -84,7 +84,7 @@ O projeto **MedLink** tem como objetivo o desenvolvimento de um sistema de agend
 
 ---
 
-## Grupo 3 - Amigo Fiel
+## Grupo 3 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 ![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
 
 ### Descrição do Produto
@@ -154,7 +154,8 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 
 ---
 
-## Grupo 6 - O Quartinho
+## Grupo 6 - Quartinho <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+
 ![logo](https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e)
 
 ### Descrição do Produto
