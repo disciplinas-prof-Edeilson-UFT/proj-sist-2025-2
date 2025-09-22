@@ -8,8 +8,9 @@
 
 ## Índice
 - [Sobre a Disciplina](#sobre-a-disciplina)
-- [Notícias Publicadas](#notícias)
-  - [Projetos Selecionados na Etapa Estadual - DLJ3 2025](#projetos-selecionados-na-etapa-estadual---dlj3-2025)
+- Notícias e prêmios.
+  - [Projetos selecionados para a etapa estadual do DLS3](#projetos-selecionados-na-etapa-estadual---dlj3-2025)
+  - [Notícia publicada no portal da UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
 - [Grupos](#grupos)
   - [Grupo 1 - EZGestor](#grupo-1---ezgestor)
   - [Grupo 2 - MedLink](#grupo-2---medlink)
