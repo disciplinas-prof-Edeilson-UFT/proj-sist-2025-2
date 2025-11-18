@@ -135,7 +135,7 @@ Além disso, o sistema busca **reduzir falhas no atendimento**, **agilizar proce
 ---
 
 ## Grupo 5 - PetCare
-![logo]()
+![Logo](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_fotos/petcare%20logo.jpg)
 
 ### Descrição do Produto
 O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovendo a acessibilidade à saúde do seu animal. Nesse aplicativo você encontra petshops e veterinários perto de você, com detalhes de fácil acesso, além de informações sobre campanhas de vacinação e tudo de relevante para a saúde do seu pet.
