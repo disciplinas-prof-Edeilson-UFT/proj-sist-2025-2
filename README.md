@@ -61,7 +61,9 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 
 ### Links
 - [Repositório](https://github.com/RuamMarcos/ezgestor)  
-- [Vídeo Pitch - DLJ3 ](https://youtu.be/adU8YGYWLSs)  
+- [Vídeo Pitch - DLJ3](https://youtu.be/adU8YGYWLSs)  
+- [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/enviando-arquivos-grupo-1/ezgestor/apresentacao-tecnica.pdf)  
+- [Landing Page](https://ezgestor-fork-73867286475.southamerica-east1.run.app)
 
 ---
 
