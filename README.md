@@ -1,49 +1,87 @@
-
 # Projeto de Sistemas 2025/2 | Universidade Federal do Tocantins - Palmas
 **Curso:** Bacharelado em Ciência da Computação  
 **Professor:** Edeilson Milhomem da Silva  
 **Período:** 2025/2  
 
----
-
-## Índice
-- [Sobre a Disciplina](#sobre-a-disciplina)
-- Notícias e prêmios.
-  - [Projetos selecionados para a etapa estadual do DLS3](#projetos-selecionados-na-etapa-estadual---dlj3-2025)
-  - [Notícia publicada no portal da UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
-- [Grupos](#grupos)
-  - [Grupo 1 - EZGestor](#grupo-1---ezgestor)
-  - [Grupo 2 - Amigo Fiel](#grupo-3---amigo-fiel)
-  - [Grupo 3 - PetCare](#grupo-5---petcare)
-  - [Grupo 6 - O Quartinho](#grupo-6---o-quartinho)
-  - [Grupo 7 - Backstage](#grupo-7---backstage)
 
 ---
 
-## Sobre a Disciplina
-Disciplina prática de **Projeto de Sistemas**, com foco no desenvolvimento de soluções tecnológicas inovadoras, aplicando metodologias ágeis e boas práticas de engenharia de software.  
+# 📘 Sobre a Disciplina
+
+<img width="1920" height="1080" alt="sistemas" src="https://github.com/user-attachments/assets/5d988469-c071-442a-a037-6a3e578e967c" />
 
 ---
 
-## Notícias
-- [Estudantes da UFT vencem etapa estadual do Desafio Liga Jovem](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+# 👤 Professor Responsável: Edeilson Milhomem da Silva
 
-### Projetos Selecionados na Etapa Estadual - DLJ3 2025
-- **[Quartinho - Proj. Sist. 2025.2](#grupo-6---o-quartinho)**
-- **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-3---amigo-fiel)**
-- **[Horta Shop - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-2---hortashop)**
-- **[Moovin - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-6---moovin)**
-- **[TrazAí  - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-3---trazaí)**
-- **PitchPlayers** ▶ Equipe da Epic Team
+<img alt="Professor" src="https://github.com/user-attachments/assets/ec247218-2786-407e-9558-420698ea5490" />
+
+---
 
 
-<img width="700" alt="capa (1)" src="https://github.com/user-attachments/assets/6d911cc3-aa6d-4eb9-9e56-d24dbac64299" />
+# 📰 Notícias e Reconhecimentos
+## Participação na Fase Final — Desafio Liga Jovem 3
+A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**.
+🔗 https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais
+
+
+## Destaque no Instagram Oficial
+A UFT publicou oficialmente a conquista nas redes sociais:
+🔗 https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==
+
+
+## Matéria sobre a etapa estadual
+🔗 https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem
 
 
 ---
 
-# Grupos
 
+# 🎤 Participação e Seleções – DLJ3 2025
+Projetos desta disciplina selecionados para etapas estaduais e nacionais:
+- **Quartinho – Proj. Sist. 2025.2**
+- **Amigo Fiel – Proj. Sist. 2025.2**
+- **Horta Shop – Proj. Sist. 2025.1**
+- **Moovin – Proj. Sist. 2025.1**
+- **TrazAí – Proj. Sist. 2025.1**
+- **PitchPlayers – Epic Team**
+
+
+<img width="800" alt="capa (1)" src="https://github.com/user-attachments/assets/6d911cc3-aa6d-4eb9-9e56-d24dbac64299" />
+
+
+---
+
+
+# 🏛️ Banca Avaliadora
+A avaliação final contou com especialistas em inovação, empreendedorismo e ecossistemas tecnológicos.
+
+
+### **Kleber Abreu**
+Superintendente de Empreendedorismo e Ambientes de Inovação.
+*(Foto aqui)*
+
+
+### **Edglei Rodrigues**
+Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
+*(Foto aqui)*
+
+
+---
+
+
+# 🖼️ Card Oficial do Evento
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/338c2491-e95d-42fa-8a41-cc373229c31a" />
+
+
+
+---
+
+
+# 📂 Grupos do Semestre
+Abaixo estão os projetos desenvolvidos na disciplina.
+
+<br><br> 
 ## Grupo 1 - EZGestor
 <img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/043b5e6c-d9f6-410f-be7f-853a23c47013" />
 
