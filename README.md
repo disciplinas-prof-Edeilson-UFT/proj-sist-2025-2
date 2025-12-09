@@ -21,30 +21,22 @@
 
 # 📰 Notícias e Reconhecimentos
 ## Participação na Fase Final — Desafio Liga Jovem 3
-A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**.
-🔗 https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais
-
-
-## Destaque no Instagram Oficial
-A UFT publicou oficialmente a conquista nas redes sociais:
-🔗 https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==
-
-
-## Matéria sobre a etapa estadual
-🔗 https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem
-
+- A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**. 🔗 [link]( https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
+- Equipes do curso avançam para a Etapa estadual! 🔗 [link](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+- A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [link](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
+<br>
 
 ---
 
 
 # 🎤 Participação e Seleções – DLJ3 2025
 Projetos desta disciplina selecionados para etapas estaduais e nacionais:
-- **Quartinho – Proj. Sist. 2025.2**
-- **Amigo Fiel – Proj. Sist. 2025.2**
-- **Horta Shop – Proj. Sist. 2025.1**
-- **Moovin – Proj. Sist. 2025.1**
-- **TrazAí – Proj. Sist. 2025.1**
-- **PitchPlayers – Epic Team**
+- **[Quartinho - Proj. Sist. 2025.2](#grupo-4---o-quartinho)**
+- **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
+- **[Horta Shop - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-2---hortashop)**
+- **[Moovin - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-6---moovin)**
+- **[TrazAí  - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-3---trazaí)**
+- **PitchPlayers** ▶ Equipe da Epic Team
 
 
 <img width="800" alt="capa (1)" src="https://github.com/user-attachments/assets/6d911cc3-aa6d-4eb9-9e56-d24dbac64299" />
