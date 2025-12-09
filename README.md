@@ -208,5 +208,10 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 ## Foto da Equipe
 ![backstage (2)](https://github.com/user-attachments/assets/ba4d9627-47ed-48b4-9eae-0d1e27c67ec7)
 
-
 ---
+<br><br>
+
+### Foto da Turma
+
+![todo-mundo](https://github.com/user-attachments/assets/de2f6052-00d7-4f62-90fd-1ec7437cc384)
+
