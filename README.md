@@ -59,12 +59,14 @@ A avaliação final contou com especialistas em inovação, empreendedorismo e e
 
 ### **Kleber Abreu**
 Superintendente de Empreendedorismo e Ambientes de Inovação.
-*(Foto aqui)*
+
+<img width="400" alt="kleber" src="https://github.com/user-attachments/assets/fac6fa34-ad80-45bc-a4cc-0f168001a24c" />
 
 
 ### **Edglei Rodrigues**
 Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
-*(Foto aqui)*
+
+<img width="400" alt="edglei" src="https://github.com/user-attachments/assets/2e181462-69c1-4776-948c-23d9ffcd6ede" />
 
 
 ---
