@@ -21,7 +21,6 @@
 
 # 📰 Notícias e Reconhecimentos
 ## Participação na Fase Final da Estadual e Nacional — Desafio Liga Jovem 3
-- A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**. 🔗 [Matéria pulibada no Portal UFT]( https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
 - Equipes do curso avançam para a Etapa estadual! 🔗 [Matéria pulibada no Portal UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
 - A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
 - A equipe do curso participou da etapa nacional da maior competição de empreendedorismo e inovação do país, o DLJ3. 🔗 [Matéria publicada no Portal UFT](https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
