@@ -71,27 +71,7 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 
 ---
 
-## Grupo 2 - MedLink
-
-### Descrição do Produto
-O projeto **MedLink** tem como objetivo o desenvolvimento de um sistema de agendamento de consultas voltado para clínicas conjuntas de médicos em início de carreira. A solução busca aumentar a produtividade e a eficiência das clínicas, oferecendo uma agenda digital simples e acessível. Entre as funcionalidades, estão o cadastro de pacientes, o gerenciamento da agenda diária e semanal de médicos, notificações de confirmação de consultas e relatórios básicos de ocupação. Com foco em acessibilidade e usabilidade, o MedLink pretende reduzir faltas, melhorar a organização da clínica e permitir que médicos se concentrem no que realmente importa: o atendimento aos pacientes.
-
-### Integrantes
-| Nome | GitHub |
-|------|--------|
-| Maurício Monteiro | [MontDeP](https://github.com/MontDeP) |
-| Wanderson Mello | [WandersonAMello](https://github.com/WandersonAMello) |
-| José Borges | [SidyDev-AI](https://github.com/SidyDev-AI) |
-| Letícia Gomes | [LeticiaGLopes-151](https://github.com/LeticiaGLopes-151) |
-| Gabryel Marques | [GabryelMarques](https://github.com/GabryelMarques) |
-
-### Links
-- [Repositório](https://github.com/MauricioMonteiro/MedLink)  
-- [Vídeo Pitch – Liga Jovem](https://youtu.be/JMGeQtd__As)  
-
----
-
-## Grupo 3 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+## Grupo 2 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 ![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
 
 ### Descrição do Produto
@@ -113,34 +93,7 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 
 ---
 
-## Grupo 4 - Cardápio Digital
-![logo](https://github.com/user-attachments/assets/739486cf-d8fe-419c-ac82-649c32ffb525)
-
-### Descrição do Produto
-O projeto consiste no desenvolvimento de um **aplicativo para restaurantes** que funciona como um **cardápio digital interativo**, permitindo que os clientes:  
-
-- Consultem o menu de forma prática e intuitiva.  
-- Realizem pedidos diretamente pelo aplicativo.  
-- Acompanhem em tempo real o status do pedido.  
-- Efetuem o pagamento pelo próprio app.  
-
-Além disso, o sistema busca **reduzir falhas no atendimento**, **agilizar processos internos** e **otimizar a experiência do cliente**, tornando o serviço mais rápido e eficiente tanto para consumidores quanto para restaurantes.
-
-### Integrantes
-| Nome | GitHub |
-|------|--------|
-| João Pedro Oliveira Barbosa | [Iohanan-Cephas](https://github.com/Iohanan-Cephas) |
-| Marcus Vinicius Guimarães Balbino | [Galessss](https://github.com/Galessss) |
-| Heitor Fernandes Carrijo | [HeitorFernandes04](https://github.com/HeitorFernandes04) |
-| Lucas José de Sousa Gomes | [yamatosz](https://github.com/yamatosz) |
-| Jonata Rubens Silva Araújo | [JonataRubens](https://github.com/JonataRubens) |
-
-### Links
-- [Repositório](https://github.com/Iohanan-Cephas/projeto_de_sistemas-2025.2)  
-
----
-
-## Grupo 5 - PetCare
+## Grupo 3 - PetCare
 ![Logo](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_fotos/petcare%20logo.jpg)
 
 ### Descrição do Produto
@@ -157,11 +110,12 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 
 ### Links
 - [Repositório](https://github.com/lfocarvalho/projeto-de-sistemas)  
-- [Vídeo Pitch – Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)  
+- [Vídeo Pitch – Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
+- [Landing Page](https://petcarepage.netlify.app/)
 
 ---
 
-## Grupo 6 - Quartinho <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+## Grupo 4 - Quartinho <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 
 ![logo](https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e)
 
@@ -184,7 +138,7 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 
 ---
 
-## Grupo 7 - Backstage
+## Grupo 5 - Backstage
 ![logo](https://raw.githubusercontent.com/maraemanuella/backstage/refs/heads/main/midia/Logo%20-%20Fundo%20Preto.png)
 
 ### Descrição do Produto
