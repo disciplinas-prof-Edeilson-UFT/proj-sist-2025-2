@@ -31,7 +31,7 @@
 
 # 🎤 Participação e Seleções – DLJ3 2025
 Projetos desta disciplina selecionados para etapas estaduais e nacionais:
-- **[Quartinho - Proj. Sist. 2025.2](#grupo-4---o-quartinho)**
+- **[Quartinho - Proj. Sist. 2025.2](#grupo-4---quartinho)**
 - **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
 - **[Horta Shop - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-2---hortashop)**
 - **[Moovin - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-6---moovin)**
