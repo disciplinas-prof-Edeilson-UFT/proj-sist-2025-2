@@ -20,17 +20,20 @@
 
 
 # 📰 Notícias e Reconhecimentos
-## Participação na Fase Final — Desafio Liga Jovem 3
-- A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**. 🔗 [link]( https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
-- Equipes do curso avançam para a Etapa estadual! 🔗 [link](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
-- A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [link](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
+## Participação na Fase Final da Estadual e Nacional — Desafio Liga Jovem 3
+- A equipe do curso chegou à **fase final da maior competição de empreendedorismo tecnológico do país**. 🔗 [Matéria pulibada no Portal UFT]( https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
+- Equipes do curso avançam para a Etapa estadual! 🔗 [Matéria pulibada no Portal UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+- A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
+- A equipe do curso participou da etapa nacional da maior competição de empreendedorismo e inovação do país, o DLJ3. 🔗 [Matéria publicada no Portal UFT](https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
+- A Agência de Inovação e Empreendedorismo da UFT (Inovato) destacou a participação na banca avaliadora do STARTUPSE 2025-2. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DSCwIJ3DhwU/?igsh=MXNiMjVla2pldmplag=)
+- A UFT divulgou os 6 projetos finalistas na Etapa Final Estadual do DLJ3. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DOhZb99jfc6/?igsh=MXQwZmExZmw3dGQxaw%3D%3D)
 <br>
 
 ---
 
 
 # 🎤 Participação e Seleções – DLJ3 2025
-Projetos desta disciplina selecionados para etapas estaduais e nacionais:
+Estadual e Nacional:
 - **[Quartinho - Proj. Sist. 2025.2](#grupo-4---quartinho)**
 - **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
 - **[Horta Shop - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-2---hortashop)**
@@ -67,7 +70,12 @@ Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
 # 🖼️ Card Oficial do Evento
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/338c2491-e95d-42fa-8a41-cc373229c31a" />
 
+<br><br>
 
+# 🖼️ Banner do Evento
+<img width="850" alt="banner" src="https://github.com/user-attachments/assets/b54a5b4c-76e4-4abc-ae64-24d467022b0b" />
+
+<br><br>
 
 ---
 
