@@ -31,8 +31,8 @@
 
 # 🎤 Participação e Seleções – DLJ3 2025
 Projetos desta disciplina selecionados para etapas estaduais e nacionais:
-- **[Quartinho - Proj. Sist. 2025.2](#grupo-4---o-quartinho)**
-- **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
+- **[Quartinho - Proj. Sist. 2025.2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md##grupo-4---o-quartinho)**
+- **[Amigo Fiel - Proj. Sist. 2025.2](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md##grupo-2---amigo-fiel)**
 - **[Horta Shop - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-2---hortashop)**
 - **[Moovin - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-6---moovin)**
 - **[TrazAí  - Proj. Sist. 2025.1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/blob/main/README.md#grupo-3---trazaí)**
@@ -107,9 +107,10 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 ---
 
 
-## Grupo 2 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+## Grupo 2 - Amigo Fiel 
 
 <img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/52a45bd9-a883-4d01-b9da-ba33c3fcdc50" />
+<img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 
 ### Descrição do Produto
 Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores independentes e adotantes em um único espaço. Seu objetivo é facilitar adoções responsáveis, promover doações seguras e dar mais visibilidade a animais resgatados que precisam de um lar. Além disso, a plataforma conta com um marketplace integrado, que aproxima tutores ao mercado pet, oferecendo produtos, serviços e profissionais especializados, tornando a experiência de adoção e cuidado com os animais ainda mais completa e acessível.
@@ -157,9 +158,10 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 
 ---
 
-## Grupo 4 - Quartinho <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+## Grupo 4 - Quartinho 
 
 <img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e" />
+<img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 
 ### Descrição do Produto
 O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados na cidade e que procuram um lugar para morar, a outros estudantes que buscam um colega de quarto. Usando filtros customizáveis e eliminando intermediários, a iniciativa procura facilitar o processo de encontrar um novo lar numa cidade nova, garantindo segurança e praticidade, para que os estudantes possam focar no que realmente interessa: sua vida acadêmica e novas experiências.
