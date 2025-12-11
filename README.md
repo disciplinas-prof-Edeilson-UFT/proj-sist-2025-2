@@ -112,13 +112,8 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 ## Foto da Equipe
 ![cd229af0-179b-426f-9405-ed5d4de4d996](https://github.com/user-attachments/assets/13c31bc5-b458-4dea-9a31-c5be353a4b1a)
 
----
-
-
-## Grupo 2 - Amigo Fiel 
-
-<img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/52a45bd9-a883-4d01-b9da-ba33c3fcdc50" />
-<img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+## Grupo 2 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
+![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
 
 ### Descrição do Produto
 Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores independentes e adotantes em um único espaço. Seu objetivo é facilitar adoções responsáveis, promover doações seguras e dar mais visibilidade a animais resgatados que precisam de um lar. Além disso, a plataforma conta com um marketplace integrado, que aproxima tutores ao mercado pet, oferecendo produtos, serviços e profissionais especializados, tornando a experiência de adoção e cuidado com os animais ainda mais completa e acessível.
@@ -137,13 +132,10 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 - [Repositório](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/f4Rg3GxqCx0)  
 
-## Foto da Equipe
-![amigofiel](https://github.com/user-attachments/assets/cbfa130a-7449-4f19-a920-af4d00003988)
-
 ---
 
 ## Grupo 3 - PetCare
-<img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/136b16a9-33f9-414f-a34e-05aedbeb5926" />
+![Logo](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_fotos/petcare%20logo.jpg)
 
 ### Descrição do Produto
 O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovendo a acessibilidade à saúde do seu animal. Nesse aplicativo você encontra petshops e veterinários perto de você, com detalhes de fácil acesso, além de informações sobre campanhas de vacinação e tudo de relevante para a saúde do seu pet.
@@ -160,13 +152,18 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 ### Links
 - [Repositório](https://github.com/lfocarvalho/projeto-de-sistemas)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
+- [Landing Page](https://petcarepage.netlify.app/)
+- [Planejamento das Apresentações Técnica e Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Apresenta%C3%A7%C3%B5es.txt)
+- [Slide do Pitch](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
 
 ## Foto da Equipe
 ![IMG_0832](https://github.com/user-attachments/assets/e3214ce3-9694-42c9-915b-4bf307578712)
 
+
 ---
 
 ## Grupo 4 - Quartinho 
+
 
 <img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/471390e7-41ff-4bb7-bdd6-9f863ffe039e" />
 <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
@@ -195,7 +192,9 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 ---
 
 ## Grupo 5 - Backstage
+
 <img align="right" width="350" alt="petcare" src="https://github.com/user-attachments/assets/650fd10b-db2f-4e00-a661-d187d5959cf5"/>
+
 
 ### Descrição do Produto
 Backstage é uma plataforma digital inovadora desenvolvida para mitigar o problema de altas taxas de ausência em eventos gratuitos. Combinando tecnologia, gamificação e responsabilidade social, a solução visa criar um ecossistema sustentável de eventos com comparecimento garantido, beneficiando organizadores, participantes e instituições.
