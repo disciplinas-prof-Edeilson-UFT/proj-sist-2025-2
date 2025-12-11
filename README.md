@@ -161,7 +161,8 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 - [Landing Page](https://petcarepage.netlify.app/)
 - [Vídeo Comercial](https://youtu.be/SM_aCPp9fG4?si=h6p-o4HBrSAK5mA1)
 - [Planejamento das Apresentações Técnica e Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Apresenta%C3%A7%C3%B5es.txt)
-- [Slide do Pitch](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
+- [Slide da Apresentação Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
+- [Slide da Apresentação Técnica](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Slide%20Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica.pdf)
 - [Vídeo de Demonstração](https://youtu.be/V-FAojtMNp4?si=ambu_4sYU6Sle8L2)
 
 ## Foto da Equipe
