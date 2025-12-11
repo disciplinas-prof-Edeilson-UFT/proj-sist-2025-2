@@ -159,8 +159,10 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 - [Repositório](https://github.com/lfocarvalho/projeto-de-sistemas)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
 - [Landing Page](https://petcarepage.netlify.app/)
+- [Vídeo Comercial](https://youtu.be/SM_aCPp9fG4?si=h6p-o4HBrSAK5mA1)
 - [Planejamento das Apresentações Técnica e Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Apresenta%C3%A7%C3%B5es.txt)
 - [Slide do Pitch](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
+- [Vídeo de Demonstração](https://youtu.be/V-FAojtMNp4?si=ambu_4sYU6Sle8L2)
 
 ## Foto da Equipe
 ![IMG_0832](https://github.com/user-attachments/assets/e3214ce3-9694-42c9-915b-4bf307578712)
