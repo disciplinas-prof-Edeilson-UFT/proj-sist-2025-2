@@ -31,6 +31,12 @@
 
 ---
 
+# 📄 Documentos Importantes
+- **[Roteiro Cerimonial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/roteiro_cerimonial.pdf)**
+- **[Ata de Reunião - 17/11/2025](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/ata_reuni%C3%A3o.pdf)**
+- **Certificados**
+
+---
 
 # 🎤 Participação e Seleções – DLJ3 2025
 Estadual e Nacional:
