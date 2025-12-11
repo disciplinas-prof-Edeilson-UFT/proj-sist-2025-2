@@ -118,8 +118,10 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 ## Foto da Equipe
 ![cd229af0-179b-426f-9405-ed5d4de4d996](https://github.com/user-attachments/assets/13c31bc5-b458-4dea-9a31-c5be353a4b1a)
 
-## Grupo 2 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
-![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
+## Grupo 2 - Amigo Fiel
+
+<img align="right" width="350" alt="amigo fiel" src="https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/midia/Logo.png" />
+<img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 
 ### Descrição do Produto
 Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores independentes e adotantes em um único espaço. Seu objetivo é facilitar adoções responsáveis, promover doações seguras e dar mais visibilidade a animais resgatados que precisam de um lar. Além disso, a plataforma conta com um marketplace integrado, que aproxima tutores ao mercado pet, oferecendo produtos, serviços e profissionais especializados, tornando a experiência de adoção e cuidado com os animais ainda mais completa e acessível.
@@ -127,16 +129,21 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 ### Integrantes
 | Nome | GitHub |
 |------|--------|
-| Edeilson Milhomem (Orientador) | [Edmilhomem](https://github.com/edmilhomem) |
 | Eduardo Henrique Coelho Ramos | [HelloKiw1](https://github.com/HelloKiw1) |
 | Eduardo Lopes de Oliveira Torres | [EduLps1](https://github.com/EduLps1) |
 | Guilherme da Silva Carvalho | [Guilherme1737](https://github.com/Guilherme1737) |
 | Henrique Wendler | [Henrique-wendler](https://github.com/Henrique-wendler) |
-| Mateus Sulino | — |
+| Mateus Sulino | [vrascode](https://github.com/vrascode) |
+| Marcus Vinicius | [Galessss](https://github.com/Galessss) |
 
 ### Links
 - [Repositório](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel)  
-- [Vídeo Pitch – Liga Jovem](https://youtu.be/f4Rg3GxqCx0)  
+- [Apresentação Final](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Amigo%20Fiel%20-%20Apresenra%C3%A7%C3%A3o%20Final.pdf)  
+- [Apresentação Tecnica](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Apresenta%C3%A7%C3%A3o%20Tecnica.pdf)  
+- [Vídeo Comercial](https://youtube.com/shorts/gNbyhHcwuvI)  
+
+## Foto da Equipe
+![quartinho](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/midia/foto%20da%20equipe.jpeg)
 
 ---
 
