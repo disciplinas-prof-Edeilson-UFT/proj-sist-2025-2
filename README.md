@@ -26,6 +26,7 @@
 - A equipe do curso participou da etapa nacional da maior competição de empreendedorismo e inovação do país, o DLJ3. 🔗 [Matéria publicada no Portal UFT](https://www.uft.edu.br/noticias/equipe-do-curso-de-ciencia-da-computacao-disputa-fase-final-da-maior-competicao-de-empreendedorismo-tecnologico-do-pais)
 - A Agência de Inovação e Empreendedorismo da UFT (Inovato) destacou a participação na banca avaliadora do STARTUPSE 2025-2. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DSCwIJ3DhwU/?igsh=MXNiMjVla2pldmplag=)
 - A UFT divulgou os 6 projetos finalistas na Etapa Final Estadual do DLJ3. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DOhZb99jfc6/?igsh=MXQwZmExZmw3dGQxaw%3D%3D)
+- O evento StartupSE destacou criatividade, empreendedorismo e soluções tecnológicas desenvolvidas por estudantes do curso. 🔗 [Matéria publicada no Portal UFT](https://www.uft.edu.br/noticias/evento-startupse-destaca-criatividade-e-empreendedorismo-de-estudantes-de-ciencia-da-computacao)
 <br>
 
 ---
