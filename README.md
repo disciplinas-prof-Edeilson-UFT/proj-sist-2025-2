@@ -34,7 +34,7 @@
 # 📄 Documentos Importantes
 - **[Roteiro Cerimonial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/roteiro_cerimonial.pdf)**
 - **[Ata de Reunião - 17/11/2025](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/ata_reuni%C3%A3o.pdf)**
-- **[Certificados](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/certificados_startupse.zip)**
+- **[Certificados](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/certificados_startupse.zip)** | **[Versão editável](https://www.canva.com/design/DAG67Io6k4g/fYOxLGg8tzq3BQP_hmtoOw/edit)**
 
 ---
 
