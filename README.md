@@ -210,9 +210,11 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 | Thiago Galvão Amorim | [@DevThiagoGalvao](https://www.github.com/DevThiagoGalvao) |
 
 ### Links
-- [Repositório](https://github.com/maraemanuella/backstage)  
-- [Vídeo Pitch](https://www.youtube.com/watch?v=QUlsN26qc5k)
-
+- [Repositório](https://github.com/maraemanuella/backstage)
+- [Vídeo Pitch - DLJ3](https://youtu.be/QUlsN26qc5k)
+- [Apresentação Técnica](https://github.com/maraemanuella/backstage/blob/main/BackstageApresentaçãoTecnica_compressed.pdf)
+- [Demonstração da Aplicação](https://www.youtube.com/watch?v=wE_zXBlvV-U)
+- [Apresentação Final](https://github.com/maraemanuella/backstage/blob/main/BACKSTAGE.pdf)
   
 ## Foto da Equipe
 ![backstage (2)](https://github.com/user-attachments/assets/ba4d9627-47ed-48b4-9eae-0d1e27c67ec7)
