@@ -141,7 +141,7 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 - [Apresentação Final](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Amigo%20Fiel%20-%20Apresenra%C3%A7%C3%A3o%20Final.pdf)  
 - [Apresentação Tecnica](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Apresenta%C3%A7%C3%A3o%20Tecnica.pdf)  
 - [Vídeo Comercial](https://youtube.com/shorts/gNbyhHcwuvI)  
-- [Landing Page]([https://youtube.com/shorts/gNbyhHcwuvI](https://projeto-de-sistemas-2025-2.github.io/landing-page/))  
+- [Landing Page](https://projeto-de-sistemas-2025-2.github.io/landing-page/)  
 
 
 
