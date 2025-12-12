@@ -242,7 +242,8 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 - [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
 - [Vencemos a Etapa Estadual do Desafio Liga Jovem e fomos até a Etapa Nacional!](https://www.instagram.com/p/DRzQXuHDfXd/)
 - [Landing Page](https://quartinho-projeto-de-sistemas-2025-2.github.io/Landing-Page/)
-- [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/Quartinho/Quartinho%20-%20Etapa%20Nacional%20DLJ-3.pdf)
+- [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/Quartinho/apresenta%C3%A7%C3%A3oT%C3%A9cnicaQuartinho.pdf)
+- [Pitch](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/Quartinho/Quartinho%20-%20Etapa%20Nacional%20DLJ-3.pdf)
 - [APK](https://github.com/Quartinho-Projeto-de-Sistemas-2025-2/Backend/releases/download/apk/Quartinho.apk)
 
 ## Foto da Equipe
