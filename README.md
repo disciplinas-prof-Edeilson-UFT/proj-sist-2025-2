@@ -31,16 +31,18 @@
 
 ---
 
-# 2. 👤 Professor Responsável: Edeilson Milhomem da Silva
 <a id="professor-responsavel"></a>
+
+# 2. 👤 Professor Responsável: Edeilson Milhomem da Silva
 
 <img alt="Professor" src="https://github.com/user-attachments/assets/ec247218-2786-407e-9558-420698ea5490" />
 
 ---
 
+<a id="noticias"></a>
 
 # 3. 📰 Notícias e Reconhecimentos
-<a id="noticias"></a>
+
 ## Participação na Fase Final da Estadual e Nacional — Desafio Liga Jovem 3
 - Equipes do curso avançam para a Etapa estadual! 🔗 [Matéria pulibada no Portal UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
 - A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
@@ -54,16 +56,18 @@
 
 ---
 
-# 4. 📄 Documentos Importantes
 <a id="documentos"></a>
+
+# 4. 📄 Documentos Importantes
 - **[Roteiro Cerimonial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/roteiro_cerimonial.pdf)**
 - **[Ata de Reunião - 17/11/2025](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/ata_reuni%C3%A3o.pdf)**
 - **[Certificados](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/certificados_startupse.zip)** | **[Versão editável](https://www.canva.com/design/DAG67Io6k4g/fYOxLGg8tzq3BQP_hmtoOw/edit)**
 
 ---
 
-# 5. 🎤 Participação e Seleções – DLJ3 2025
 <a id="participacao-dlj3"></a>
+
+# 5. 🎤 Participação e Seleções – DLJ3 2025
 Estadual e Nacional:
 - **[Quartinho - Proj. Sist. 2025.2](#grupo-4---quartinho)**
 - **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
@@ -78,9 +82,9 @@ Estadual e Nacional:
 
 ---
 
+<a id="banca"></a>
 
 # 6. 🏛️ Banca Avaliadora
-<a id="banca"></a>
 A avaliação final contou com especialistas em inovação, empreendedorismo e ecossistemas tecnológicos.
 
 
@@ -98,24 +102,25 @@ Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
 
 ---
 
+<a id="card-oficial"></a>
 
 # 7. 🖼️ Card Oficial do Evento
-<a id="card-oficial"></a>
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/338c2491-e95d-42fa-8a41-cc373229c31a" />
 
 <br><br>
 
-# 8. 🖼️ Banner do Evento
 <a id="banner"></a>
+
+# 8. 🖼️ Banner do Evento
 <img width="850" alt="banner" src="https://github.com/user-attachments/assets/b54a5b4c-76e4-4abc-ae64-24d467022b0b" />
 
 <br><br>
 
 ---
 
+<a id="grupos"></a>
 
 # 9. 📂 Grupos do Semestre
-<a id="grupos"></a>
 
 Abaixo estão os projetos desenvolvidos na disciplina.
 
@@ -276,8 +281,9 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 ---
 <br><br>
 
-### 10. Foto da Turma
 <a id="foto-da-turma"></a>
+
+### 10. Foto da Turma
 
 Registro da turma de Projeto de Sistemas 2025/2: equipes, professor e banca reunidos após as apresentações finais e os destaques no DLJ3
 
