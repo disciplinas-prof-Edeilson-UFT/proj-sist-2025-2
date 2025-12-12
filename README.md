@@ -33,6 +33,12 @@
 
 ---
 
+# 📄 Documentos Importantes
+- **[Roteiro Cerimonial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/roteiro_cerimonial.pdf)**
+- **[Ata de Reunião - 17/11/2025](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/ata_reuni%C3%A3o.pdf)**
+- **[Certificados](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/certificados_startupse.zip)** | **[Versão editável](https://www.canva.com/design/DAG67Io6k4g/fYOxLGg8tzq3BQP_hmtoOw/edit)**
+
+---
 
 # 🎤 Participação e Seleções – DLJ3 2025
 Estadual e Nacional:
@@ -114,8 +120,10 @@ O projeto propõe o desenvolvimento de um sistema integrado de gestão empresari
 ## Foto da Equipe
 ![cd229af0-179b-426f-9405-ed5d4de4d996](https://github.com/user-attachments/assets/13c31bc5-b458-4dea-9a31-c5be353a4b1a)
 
-## Grupo 2 - Amigo Fiel <img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
-![logo](https://avatars.githubusercontent.com/t/14021207?s=116&v=4)
+## Grupo 2 - Amigo Fiel
+
+<img align="right" width="350" alt="amigo fiel" src="https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/midia/Logo.png" />
+<img align="right" width="350" height="30" alt="Sem Título-2" src="https://github.com/user-attachments/assets/d20ed508-e74b-4077-81d7-0267a378d38c" />
 
 ### Descrição do Produto
 Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores independentes e adotantes em um único espaço. Seu objetivo é facilitar adoções responsáveis, promover doações seguras e dar mais visibilidade a animais resgatados que precisam de um lar. Além disso, a plataforma conta com um marketplace integrado, que aproxima tutores ao mercado pet, oferecendo produtos, serviços e profissionais especializados, tornando a experiência de adoção e cuidado com os animais ainda mais completa e acessível.
@@ -123,16 +131,24 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 ### Integrantes
 | Nome | GitHub |
 |------|--------|
-| Edeilson Milhomem (Orientador) | [Edmilhomem](https://github.com/edmilhomem) |
 | Eduardo Henrique Coelho Ramos | [HelloKiw1](https://github.com/HelloKiw1) |
 | Eduardo Lopes de Oliveira Torres | [EduLps1](https://github.com/EduLps1) |
 | Guilherme da Silva Carvalho | [Guilherme1737](https://github.com/Guilherme1737) |
 | Henrique Wendler | [Henrique-wendler](https://github.com/Henrique-wendler) |
-| Mateus Sulino | — |
+| Mateus Sulino | [vrascode](https://github.com/vrascode) |
+| Marcus Vinicius | [Galessss](https://github.com/Galessss) |
 
 ### Links
 - [Repositório](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel)  
-- [Vídeo Pitch – Liga Jovem](https://youtu.be/f4Rg3GxqCx0)  
+- [Apresentação Final](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Amigo%20Fiel%20-%20Apresenra%C3%A7%C3%A3o%20Final.pdf)  
+- [Apresentação Tecnica](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/Apresenta%C3%A7%C3%A3o%20Tecnica.pdf)  
+- [Vídeo Comercial](https://youtube.com/shorts/gNbyhHcwuvI)  
+- [Landing Page](https://projeto-de-sistemas-2025-2.github.io/landing-page/)  
+
+
+
+## Foto da Equipe
+![quartinho](https://github.com/Projeto-de-Sistemas-2025-2/Amigo-Fiel/blob/main/midia/foto%20da%20equipe.jpeg)
 
 ---
 
@@ -155,8 +171,11 @@ O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovend
 - [Repositório](https://github.com/lfocarvalho/projeto-de-sistemas)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/bO_F5-_RH-0?si=_H23I241z7CZnpjX)
 - [Landing Page](https://petcarepage.netlify.app/)
+- [Vídeo Comercial](https://youtu.be/SM_aCPp9fG4?si=h6p-o4HBrSAK5mA1)
 - [Planejamento das Apresentações Técnica e Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Apresenta%C3%A7%C3%B5es.txt)
-- [Slide do Pitch](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
+- [Slide da Apresentação Comercial](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/Co%CC%81pia%20de%20PetCare.pdf)
+- [Slide da Apresentação Técnica](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_repositorio/Slide%20Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica.pdf)
+- [Vídeo de Demonstração](https://youtu.be/V-FAojtMNp4?si=ambu_4sYU6Sle8L2)
 
 ## Foto da Equipe
 ![IMG_0832](https://github.com/user-attachments/assets/e3214ce3-9694-42c9-915b-4bf307578712)
@@ -185,7 +204,11 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 ### Links
 - [Repositório](https://github.com/sophiaprado1/Quartinho-PS)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/oRFkZjGtHVI?si=QO7GZrxkkUTTM4z9)  
-- [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)  
+- [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+- [Vencemos a Etapa Estadual do Desafio Liga Jovem e fomos até a Etapa Nacional!](https://www.instagram.com/p/DRzQXuHDfXd/)
+- [Landing Page](https://quartinho-projeto-de-sistemas-2025-2.github.io/Landing-Page/)
+- [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/Quartinho/Quartinho%20-%20Etapa%20Nacional%20DLJ-3.pdf)
+- [APK](https://github.com/Quartinho-Projeto-de-Sistemas-2025-2/Backend/releases/download/apk/Quartinho.apk)
 
 ## Foto da Equipe
 ![quartinho](https://github.com/user-attachments/assets/96b4cb1b-e90f-4f80-aa87-0444846e8ec8)
@@ -217,6 +240,7 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 - [Apresentação Técnica](https://github.com/maraemanuella/backstage/blob/main/BackstageApresentaçãoTecnica_compressed.pdf)
 - [Demonstração da Aplicação](https://www.youtube.com/watch?v=wE_zXBlvV-U)
 - [Apresentação Final](https://github.com/maraemanuella/backstage/blob/main/BACKSTAGE.pdf)
+- [Landing Page](https://maraemanuella.github.io/backstage/)
   
 ## Foto da Equipe
 ![backstage (2)](https://github.com/user-attachments/assets/ba4d9627-47ed-48b4-9eae-0d1e27c67ec7)
