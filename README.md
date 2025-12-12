@@ -6,15 +6,15 @@
 ---
 
 ## Sumário
-- 1️⃣ [Sobre a Disciplina](#-sobre-a-disciplina)
-- 2️⃣ [Professor Responsável](#-professor-responsável-edeilson-milhomem-da-silva)
-- 3️⃣ [Notícias e Reconhecimentos](#-notícias-e-reconhecimentos)
-- 4️⃣ [Documentos Importantes](#-documentos-importantes)
-- 5️⃣ [Participação e Seleções – DLJ3 2025](#-participação-e-seleções-–-dlj3-2025)
-- 6️⃣ [Banca Avaliadora](#-banca-avaliadora)
-- 7️⃣ [Card Oficial do Evento](#-card-oficial-do-evento)
-- 8️⃣ [Banner do Evento](#-banner-do-evento)
-- 9️⃣ [Grupos do Semestre](#-grupos-do-semestre)
+- 1️⃣ [Sobre a Disciplina](#sobre-a-disciplina)
+- 2️⃣ [Professor Responsável](#professor-responsavel)
+- 3️⃣ [Notícias e Reconhecimentos](#noticias)
+- 4️⃣ [Documentos Importantes](#documentos)
+- 5️⃣ [Participação e Seleções – DLJ3 2025](#participacao-dlj3)
+- 6️⃣ [Banca Avaliadora](#banca)
+- 7️⃣ [Card Oficial do Evento](#card-oficial)
+- 8️⃣ [Banner do Evento](#banner)
+- 9️⃣ [Grupos do Semestre](#grupos)
 	- [Grupo 1 - EZGestor](#grupo-1---ezgestor)
 	- [Grupo 2 - Amigo Fiel](#grupo-2---amigo-fiel)
 	- [Grupo 3 - PetCare](#grupo-3---petcare)
@@ -25,12 +25,13 @@
 ---
 
 # 1. 📘 Sobre a Disciplina
-
+<a id="sobre-a-disciplina"></a>
 <img width="1920" height="1080" alt="sistemas" src="https://github.com/user-attachments/assets/5d988469-c071-442a-a037-6a3e578e967c" />
 
 ---
 
 # 2. 👤 Professor Responsável: Edeilson Milhomem da Silva
+<a id="professor-responsavel"></a>
 
 <img alt="Professor" src="https://github.com/user-attachments/assets/ec247218-2786-407e-9558-420698ea5490" />
 
@@ -38,6 +39,7 @@
 
 
 # 3. 📰 Notícias e Reconhecimentos
+<a id="noticias"></a>
 ## Participação na Fase Final da Estadual e Nacional — Desafio Liga Jovem 3
 - Equipes do curso avançam para a Etapa estadual! 🔗 [Matéria pulibada no Portal UFT](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
 - A UFT publicou oficialmente a conquista nas redes sociais: 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DRzQXuHDfXd/?igsh=MWEzYW53dm9pdGdscA==)
@@ -52,6 +54,7 @@
 ---
 
 # 4. 📄 Documentos Importantes
+<a id="documentos"></a>
 - **[Roteiro Cerimonial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/roteiro_cerimonial.pdf)**
 - **[Ata de Reunião - 17/11/2025](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/ata_reuni%C3%A3o.pdf)**
 - **[Certificados](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-2/blob/main/certificados_startupse.zip)** | **[Versão editável](https://www.canva.com/design/DAG67Io6k4g/fYOxLGg8tzq3BQP_hmtoOw/edit)**
@@ -59,6 +62,7 @@
 ---
 
 # 5. 🎤 Participação e Seleções – DLJ3 2025
+<a id="participacao-dlj3"></a>
 Estadual e Nacional:
 - **[Quartinho - Proj. Sist. 2025.2](#grupo-4---quartinho)**
 - **[Amigo Fiel - Proj. Sist. 2025.2](#grupo-2---amigo-fiel)**
@@ -75,6 +79,7 @@ Estadual e Nacional:
 
 
 # 6. 🏛️ Banca Avaliadora
+<a id="banca"></a>
 A avaliação final contou com especialistas em inovação, empreendedorismo e ecossistemas tecnológicos.
 
 
@@ -94,11 +99,13 @@ Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
 
 
 # 7. 🖼️ Card Oficial do Evento
+<a id="card-oficial"></a>
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/338c2491-e95d-42fa-8a41-cc373229c31a" />
 
 <br><br>
 
 # 8. 🖼️ Banner do Evento
+<a id="banner"></a>
 <img width="850" alt="banner" src="https://github.com/user-attachments/assets/b54a5b4c-76e4-4abc-ae64-24d467022b0b" />
 
 <br><br>
@@ -107,6 +114,8 @@ Coordenador de Comércio, Serviço e Sustentabilidade — Sebrae.
 
 
 # 9. 📂 Grupos do Semestre
+<a id="grupos"></a>
+
 Abaixo estão os projetos desenvolvidos na disciplina.
 
 <br><br> 
@@ -267,6 +276,7 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 <br><br>
 
 ### 10. Foto da Turma
+<a id="foto-da-turma"></a>
 
 Registro da turma de Projeto de Sistemas 2025/2: equipes, professor e banca reunidos após as apresentações finais e os destaques no DLJ3
 
