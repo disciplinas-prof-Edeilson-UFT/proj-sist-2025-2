@@ -202,7 +202,10 @@ O Quartinho é uma plataforma online dedicada a conectar alunos recém-chegados 
 ### Links
 - [Repositório](https://github.com/sophiaprado1/Quartinho-PS)  
 - [Vídeo Pitch – Liga Jovem](https://youtu.be/oRFkZjGtHVI?si=QO7GZrxkkUTTM4z9)  
-- [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)  
+- [Passamos na Etapa Estadual do Desafio Liga Jovem!](https://www.uft.edu.br/noticias/estudantes-da-uft-vencem-etapa-estadual-do-desafio-liga-jovem)
+- [Landing Page](https://quartinho-projeto-de-sistemas-2025-2.github.io/Landing-Page/)
+- [Apresentação Técnica]()
+- [APK](https://github.com/Quartinho-Projeto-de-Sistemas-2025-2/Backend/releases/download/apk/Quartinho.apk)
 
 ## Foto da Equipe
 ![quartinho](https://github.com/user-attachments/assets/96b4cb1b-e90f-4f80-aa87-0444846e8ec8)
