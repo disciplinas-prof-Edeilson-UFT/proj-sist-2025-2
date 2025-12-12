@@ -27,6 +27,8 @@
 - A Agência de Inovação e Empreendedorismo da UFT (Inovato) destacou a participação na banca avaliadora do STARTUPSE 2025-2. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DSCwIJ3DhwU/?igsh=MXNiMjVla2pldmplag=)
 - A UFT divulgou os 6 projetos finalistas na Etapa Final Estadual do DLJ3. 🔗 [Postagem no Instagram](https://www.instagram.com/p/DOhZb99jfc6/?igsh=MXQwZmExZmw3dGQxaw%3D%3D)
 - O evento StartupSE destacou criatividade, empreendedorismo e soluções tecnológicas desenvolvidas por estudantes do curso. 🔗 [Matéria publicada no Portal UFT](https://www.uft.edu.br/noticias/evento-startupse-destaca-criatividade-e-empreendedorismo-de-estudantes-de-ciencia-da-computacao)
+- A UFT destacou oficialmente o evento StartupSE em suas redes sociais. 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DSH95ViDShr/?igsh=cHdtbWc4ZG9uOWJq)
+- A UFT também registrou os resultados e destaques do StartupSE em uma segunda publicação. 🔗 [Postagem no Instagram Oficial](https://www.instagram.com/p/DSIzLIyiQcE/?igsh=MmZxbzQ0NGd4dDkx)
 <br>
 
 ---
