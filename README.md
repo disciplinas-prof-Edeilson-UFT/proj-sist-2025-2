@@ -283,7 +283,7 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 
 <a id="foto-da-turma"></a>
 
-### 10. Foto da Turma
+# 10. 📸 Foto da Turma
 
 Registro da turma de Projeto de Sistemas 2025/2: equipes, professor e banca reunidos após as apresentações finais e os destaques no DLJ3
 
