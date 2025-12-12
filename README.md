@@ -237,6 +237,7 @@ Backstage é uma plataforma digital inovadora desenvolvida para mitigar o proble
 - [Apresentação Técnica](https://github.com/maraemanuella/backstage/blob/main/BackstageApresentaçãoTecnica_compressed.pdf)
 - [Demonstração da Aplicação](https://www.youtube.com/watch?v=wE_zXBlvV-U)
 - [Apresentação Final](https://github.com/maraemanuella/backstage/blob/main/BACKSTAGE.pdf)
+- [Landing Page](https://maraemanuella.github.io/backstage/)
   
 ## Foto da Equipe
 ![backstage (2)](https://github.com/user-attachments/assets/ba4d9627-47ed-48b4-9eae-0d1e27c67ec7)
