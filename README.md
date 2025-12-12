@@ -186,7 +186,9 @@ Amigo Fiel é uma plataforma digital criada para conectar ONGs, protetores indep
 ---
 
 ## Grupo 3 - PetCare
-![Logo](https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_fotos/petcare%20logo.jpg)
+
+<img align="right" width="350" alt="petcare" src="https://github.com/lfocarvalho/projeto-de-sistemas/blob/main/media/projeto_fotos/petcare%20logo.jpg" />
+
 
 ### Descrição do Produto
 O **PetCare** é um projeto que visa conectar tutores e o mercado pet, promovendo a acessibilidade à saúde do seu animal. Nesse aplicativo você encontra petshops e veterinários perto de você, com detalhes de fácil acesso, além de informações sobre campanhas de vacinação e tudo de relevante para a saúde do seu pet.
